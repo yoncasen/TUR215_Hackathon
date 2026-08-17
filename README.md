@@ -5,3 +5,15 @@
 
 ## Proje türü:
 Websitesi (yapay zeka destekli)
+
+
+## Kullanacağım kütüphaneler:
+- Flask
+- SQLAlchemy
+
+## Faydalı referanslar:
+- Referans 1
+- Referans N
+
+## Geliştirme sırasında bana yardımcı olacak rehber makaleler
+Flask dökümantasyonu. [Flask]([https://flask.palletsprojects.com/en/stable/])
