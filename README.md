@@ -16,4 +16,4 @@ Websitesi (yapay zeka destekli)
 - Referans N
 
 ## Geliştirme sırasında bana yardımcı olacak rehber makaleler
-Flask dökümantasyonu. [Flask]([https://flask.palletsprojects.com/en/stable/])
+Flask dökümantasyonu. [Flask][https://flask.palletsprojects.com/en/stable/]
